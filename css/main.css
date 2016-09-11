@@ -90,6 +90,7 @@
   margin-left: 11%;
   padding-top: 2%;
 }
+
 /*-- Bloque 1 - Paleta de color --*/
 
 .cuadro1{
@@ -248,4 +249,29 @@
   background-color: #DC403B;
   width: 60%;
   height: 120px;
+}
+
+/*-- Sección 3 - About us --*/
+
+.bg-color-blue1{
+  background-color: #0B173B;
+  height: 1000%;
+  width: 100%;
+  margin-top: 1.7%;
+}
+
+.size-img-aboutus{
+  width: 100%;
+}
+
+/*-- Sección 4 - What we do --*/
+
+.bg-color-green1{
+  background-color: #04B486;
+  height: 1000%;
+  width: 100%;
+}
+
+hr{
+  width: 20%;
 }
