@@ -1,11 +1,11 @@
 /*HEADER*/    
-/*--- Logo ---*/
+/*-- Logo --*/
 
 .navbar-brand {
   padding: 15px 15px;
 }  
      
-/*--- Menu de Navegación ---*/
+/*-- Menu de Navegación --*/
 
 .navbar { 
   margin-bottom: 0;
@@ -39,14 +39,14 @@
   transition: all 100ms ease-in-out;
 }
 
-/*--- Navbar Scroll ---*/   
+/*-- Navbar Scroll --*/   
 
 .scroll-fixed-navbar {
   padding: 0px;
   background-color: #088A4B;
 }
 
-/*--- Menu Responsivo---*/
+/*-- Menu Responsivo --*/
 
 .navbar-toggle {
   position: relative;
@@ -62,7 +62,8 @@
   background-color: white;
 }
 
-/*--- Sección 1 - Banner ---*/
+/*SECTION*/
+/*-- Sección 1 - Banner --*/
 
 #bg-banner-intro{
   background-image: url("../img/carousel-bg.jpg"); 
@@ -71,39 +72,180 @@
   height: 600px;
 }
 
-.control-p1{ /*--- Controla el título y el párrafo --*/
+.control-p1{ /*-- Controla el título y el párrafo --*/
   margin-top: 10%;
 }
 
-.text-color-white{ /*--- Texto color blanco para todos los textos ---*/
+.text-color-white{ /*-- Texto color blanco para todos los textos --*/
   color:white;
 }
 
-.text-size-t1{ /*--- Tamaño del primer título ---*/
-  font-size: 5em;
+.text-size-t1{ /*-- Tamaño del primer título --*/
+  font-size: 4.8em;
 }
 
-/*--- Sección 2 - Paleta de Colores ---*/
+/*-- Sección 2 - Paleta de Colores --*/
 
-hr{
-  width: 50%;
-  color:gray;
+.control-p2{ /*-- Controla de la paleta de color --*/
+  margin-left: 11%;
+  padding-top: 2%;
 }
+/*-- Bloque 1 - Paleta de color --*/
 
 .cuadro1{
   background-color: #69D2E7;
-  width: 100%;
+  width: 122%;
   height: 120px;
 }
 
 .cuadro2{
   background-color: #A7DBDB;
-  width: 100%;
+  width: 122%;
   height: 120px;
 }
 
 .cuadro3{
   background-color: #E0E4CC;
-  width: 100%;
+  width: 122%;
+  height: 120px;
+}
+
+.cuadro4{
+  background-color: #F38630;
+  width: 122%;
+  height: 120px;
+}
+
+.cuadro5{
+  background-color: #FA6900;
+  width: 60%;
+  height: 120px;
+}
+
+/*-- Bloque 2 - Paleta de color --*/
+
+.cuadro6{
+  background-color: #E94C6F;
+  width: 122%;
+  height: 120px;
+}
+
+.cuadro7{
+  background-color: #542733;
+  width: 122%;
+  height: 120px;
+}
+
+.cuadro8{
+  background-color: #5A6A62;
+  width: 122%;
+  height: 120px;
+}
+
+.cuadro9{
+  background-color: #C6D5CD;
+  width: 122%;
+  height: 120px;
+}
+
+.cuadro10{
+  background-color: #FDF200;
+  width: 60%;
+  height: 120px;
+}
+
+/*-- Bloque 3 - Paleta de color --*/
+
+.cuadro11{
+  background-color: #DB3340;
+  width: 122%;
+  height: 120px;
+}
+
+.cuadro12{
+  background-color: #E8B71A;
+  width: 122%;
+  height: 120px;
+}
+
+.cuadro13{
+  background-color: #F7EAC8;
+  width: 122%;
+  height: 120px;
+}
+
+.cuadro14{
+  background-color: #1FDA9A;
+  width: 122%;
+  height: 120px;
+}
+
+.cuadro15{
+  background-color: #28ABE3;
+  width: 60%;
+  height: 120px;
+}
+
+/*-- Bloque 4 - Paleta de color --*/
+
+.cuadro16{
+  background-color: #588C73;
+  width: 122%;
+  height: 120px;
+}
+
+.cuadro17{
+  background-color: #F2E394;
+  width: 122%;
+  height: 120px;
+}
+
+.cuadro18{
+  background-color: #F2AE72;
+  width: 122%;
+  height: 120px;
+}
+
+.cuadro19{
+  background-color: #D96459;
+  width: 122%;
+  height: 120px;
+}
+
+.cuadro20{
+  background-color: #8C4646;
+  width: 60%;
+  height: 120px;
+}
+
+/*-- Bloque 5 - Paleta de color --*/
+
+.cuadro21{
+  background-color: #D0C91F;
+  width: 122%;
+  height: 120px;
+}
+
+.cuadro22{
+  background-color: #85C4B9;
+  width: 122%;
+  height: 120px;
+}
+
+.cuadro23{
+  background-color: #008BBA;
+  width: 122%;
+  height: 120px;
+}
+
+.cuadro24{
+  background-color: #DF514C;
+  width: 122%;
+  height: 120px;
+}
+
+.cuadro25{
+  background-color: #DC403B;
+  width: 60%;
   height: 120px;
 }
