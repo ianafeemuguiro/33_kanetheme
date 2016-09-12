@@ -320,3 +320,40 @@ button{
   margin-left: 25%;
   margin-top: 20%;
 }
+
+/*-- Sección 5 - Best price guranteed --*/
+
+.border-green{
+  border: 3px solid #04B486;
+  width: 70%;
+  margin-top: 30%;
+  margin-left: 15%;
+}
+
+.box-brown{
+  background-color: #DF7401;
+  height: 50px;
+  padding:0;
+}
+
+.box-green{
+  background-color: #04B486;
+  height: 100px;
+}
+
+.box-white{
+  background-color: white;
+  height: 100px;
+}
+
+.box-transparent{
+  background-color: transparent;
+  height: 50px;
+}
+
+.border-orange{ /*-- Borde naranja --*/
+  border: 3px solid #DF7401;
+  width: 70%;
+  margin-top: 20%;
+  margin-left: 15%;
+}
