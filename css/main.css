@@ -1,5 +1,5 @@
-div{
-  border-color: red;
+body{
+  padding-top: 15%;
 }
 
 /*HEADER*/    
@@ -73,7 +73,7 @@ div{
   background-image: url("../img/carousel-bg.jpg"); 
   background-repeat: no-repeat;
   background-size: 100%;
-  height: 600px;
+  height: 700px;
 }
 
 .control-p1{ /*-- Controla el título y el párrafo --*/
@@ -91,8 +91,7 @@ div{
 /*-- Sección 2 - Paleta de Colores --*/
 
 .control-p2{ /*-- Controla de la paleta de color --*/
-  margin-left: 11%;
-  padding-top: 2%;
+
 }
 
 /*-- Bloque 1 - Paleta de color --*/
