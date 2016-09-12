@@ -255,9 +255,7 @@
 
 .bg-color-blue1{
   background-color: #0B173B;
-  height: 1000%;
   width: 100%;
-  margin-top: 1.7%;
 }
 
 .size-img-aboutus{
@@ -268,10 +266,57 @@
 
 .bg-color-green1{
   background-color: #04B486;
-  height: 1000%;
   width: 100%;
 }
 
 hr{
   width: 20%;
+}
+
+.control-bg-1{
+  margin-left: 33%;
+  margin-top: 15%;
+}
+
+.bg-icon-blue{
+  background-color: #0B173B;
+  width: 50%;
+  height: 170px;
+}
+
+.bg-icon-gray{
+  background-color: #848484;
+  width: 50%;
+  height: 170px;
+}
+
+.img-icon-desktop{
+  margin-top: -112%;
+  margin-left: 8%;
+  width: 80%;
+}
+
+button{
+  background-color: blue;
+  margin-left: 33%;
+  margin-top: 10%;
+}
+
+.bg-icon-orange{
+  background-color: orange;
+  width: 50%;
+  height: 170px;
+}
+
+.img-icon-app{
+  margin-top: 10%;
+  margin-left: 9%;
+  width: 80%;
+}
+
+/*-- Sección 4 (dentro de la misma) - Our awesome team --*/
+
+.img-team{
+  margin-left: 25%;
+  margin-top: 20%;
 }
